@@ -26,7 +26,7 @@ Whether you're setting up Kubernetes clusters, deploying applications, integrati
 ✅ **Monitor Applications** using Grafana, Prometheus, and Loki  
 ✅ **Automate Infrastructure** with Terraform and Helm  
 ✅ **Invite Team Members** and manage permissions  
-✅ **Central DevOps Console** – One place for all your tools
+✅ **Central DevOps Console** – One place for all your tools.
 
 
 
