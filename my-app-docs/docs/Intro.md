@@ -28,17 +28,7 @@ Whether you're setting up Kubernetes clusters, deploying applications, integrati
 ✅ **Invite Team Members** and manage permissions  
 ✅ **Central DevOps Console** – One place for all your tools
 
----
 
-## Get Started
-
-New to CloudMaSa? Start here:
-
-➡️ [Getting Started Guide](/docs/getting-started) – Install, configure, and run your first workflow  
-➡️ [Architecture Overview](/docs/architecture) – Understand how CloudMaSa works  
-➡️ [API Reference](/docs/api/introduction) – Integrate CloudMaSa into your tools  
-
----
 
 > 💡 **Tip**: CloudMaSa runs as a web application. You can deploy it on your own server or use our managed version (coming soon!).
 
